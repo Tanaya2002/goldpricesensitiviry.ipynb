@@ -1,2 +1,1 @@
-# goldpricesensitiviry.ipynb
-gold price Repositories
+Repositories
